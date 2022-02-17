@@ -1,0 +1,63 @@
+body{
+    background-color: mediumaquamarine;
+}
+form{
+    border: 1px none;
+    width:280px;
+    height:370px;
+    background-color: white;
+    padding-top: 10px;
+    margin-top: 100px;
+}
+input[type="text"] {
+    border: none;
+    background-color: #eeeaea;
+    width: 224px;
+    height: 25px;
+    cursor:pointer;
+    border-radius: 3px;
+    font-weight: bold;
+}
+input[type="email"]{
+    border: none;
+    background-color: #eeeaea;
+    width: 224px;
+    height: 25px;
+    cursor:pointer;
+    border-radius: 3px;
+    font-weight: bold;
+}
+input[type="password"]{
+    border: none;
+    background-color: #eeeaea;
+    width: 224px;
+    height:25px;
+    cursor:pointer;
+    border-radius: 3px;
+    font-weight: bold;
+}
+input[type="password"] #cpwd {
+    border: none;
+    background-color: #eeeaea;
+    width: 224px;
+    height:25px;
+    cursor:pointer;
+    border-radius: 3px;
+    font-weight: bold;
+}
+input[type="button"] {
+    background-color: #8599f1;
+    border: none;
+    color: white;
+    width: 90px;
+    height: 26px;
+    font-weight: bold;
+}
+input[type="button"]:hover {
+    background-color: #c2c2f5;
+    border-color: none;
+}
+p{
+    font-size:27px;
+    font-family: 'Segoe UI';
+}
